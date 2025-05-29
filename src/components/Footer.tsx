@@ -1,4 +1,3 @@
-import { FaFacebookF, FaInstagram, FaGlobe } from 'react-icons/fa';
 
 export default function Footer() {
   return (
@@ -33,7 +32,7 @@ export default function Footer() {
 
         {/* Column 3: Connect */}
         <div>
-          <h3 className="font-semibold text-base mb-2">We're Hiring!</h3>
+          <h3 className="font-semibold text-base mb-2">We Are Hiring!</h3>
           <p className="mb-1 text-sm text-gray-300">
             Join our growing sales team across multiple cities in India.
             Freshers and experienced candidates welcome.

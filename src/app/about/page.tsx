@@ -135,8 +135,8 @@ export default function About() {
           <h2 className="text-2xl font-semibold text-[#EB5C2A]">Sales Careers at Spherix Diagnostics</h2>
 
           <p className="text-gray-700 max-w-3xl mx-auto text-sm">
-            We’re expanding our nationwide presence and are on the lookout for enthusiastic and driven individuals to join our sales team.
-            Whether you're a recent graduate or have prior experience, we'd love to hear from you.
+            We`&apos`re expanding our nationwide presence and are on the lookout for enthusiastic and driven individuals to join our sales team.
+            Whether you`&apos`re a recent graduate or have prior experience, we`&apos`d love to hear from you.
           </p>
 
           <p className="text-gray-700 max-w-3xl mx-auto text-sm">
@@ -151,7 +151,7 @@ export default function About() {
 
           {/* Locations List */}
           <div className="mt-6 max-w-3xl mx-auto bg-white rounded-md shadow p-6">
-            <h3 className="text-lg font-semibold text-[#EB5C2A] mb-3">We're Hiring in These Cities:</h3>
+            <h3 className="text-lg font-semibold text-[#EB5C2A] mb-3">We&aposre Hiring in These Cities:</h3>
             <ul className="flex flex-wrap justify-center gap-3 text-gray-800 font-medium">
               {[
                 "Ahmedabad",
