@@ -151,7 +151,7 @@ export default function About() {
 
           {/* Locations List */}
           <div className="mt-6 max-w-3xl mx-auto bg-white rounded-md shadow p-6">
-            <h3 className="text-lg font-semibold text-[#EB5C2A] mb-3">We&aposre Hiring in These Cities:</h3>
+            <h3 className="text-lg font-semibold text-[#EB5C2A] mb-3">We&apos;re Hiring in These Cities:</h3>
             <ul className="flex flex-wrap justify-center gap-3 text-gray-800 font-medium">
               {[
                 "Ahmedabad",
